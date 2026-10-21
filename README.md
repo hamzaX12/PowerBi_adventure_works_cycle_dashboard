@@ -6,11 +6,6 @@
 
 # discounts for Adventure Works Cycle (2018-2021).
 
-# 
-
-# !\[Overview](images/page1\_overview.png)
-
-# 
 
 # 
 
